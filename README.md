@@ -41,9 +41,14 @@ const { sample001, dataset } = require("dataset-srj18")
 ```sh
 bun install
 bun run generate
+bun run generate:hypergraphs
 bun run test
 ```
 
 The generator downloads `.kicad_pcb` files into `kicad_pcb/`, converts them to
 Circuit JSON with `kicad-to-circuit-json`, and converts that output to Simple
 Route JSON with `getSimpleRouteJsonFromCircuitJson` from `@tscircuit/core`.
+
+`bun run generate:hypergraphs` writes tiny-hypergraph files to
+`generated-datasets/srj18/` using `AutoroutingPipelineSolver7_MultiGraph` from
+`@tscircuit/capacity-autorouter`.
