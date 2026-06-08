@@ -3,10 +3,21 @@
   "version": "1.0.0",
   "description": "Simple Route JSON dataset from KiCad Arduino boards",
   "private": true,
-  "main": "index.js",
+  "type": "module",
+  "main": "index.cjs",
+  "module": "index.js",
   "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "require": "./index.cjs",
+      "default": "./index.js"
+    }
+  },
   "files": [
     "index.js",
+    "index.cjs",
     "index.d.ts",
     "samples",
     "kicad_pcb",

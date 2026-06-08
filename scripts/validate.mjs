@@ -1,8 +1,5 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs"
-import { createRequire } from "node:module"
-
-const require = createRequire(import.meta.url)
-const dataset = require("../index.js")
+import { dataset } from "../index.js"
 
 const samples = readdirSync("samples").filter((file) => file.endsWith(".json")).sort()
 const sourceFiles = JSON.parse(readFileSync("source-files.json", "utf8"))

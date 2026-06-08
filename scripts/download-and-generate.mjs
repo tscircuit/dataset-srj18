@@ -147,6 +147,21 @@ const writeIndexFiles = () => {
   const exportNames = sampleFiles.map((file) => file.replace(/\.json$/, ""))
 
   const indexJs = [
+    ...exportNames.map((name) => `import ${name} from "./samples/${name}.json" with { type: "json" }`),
+    "",
+    "export {",
+    ...exportNames.map((name) => `  ${name},`),
+    "}",
+    "",
+    "export const dataset = {",
+    ...exportNames.map((name) => `  ${name},`),
+    "}",
+    "",
+    "export default dataset",
+    "",
+  ].join("\n")
+
+  const indexCjs = [
     "\"use strict\"",
     "",
     ...exportNames.map((name) => `exports.${name} = require("./samples/${name}.json")`),
@@ -230,6 +245,7 @@ const writeIndexFiles = () => {
   ].join("\n")
 
   writeFileSync("index.js", indexJs)
+  writeFileSync("index.cjs", indexCjs)
   writeFileSync("index.d.ts", indexDts)
 }
 
