@@ -40,7 +40,7 @@
         "eecircuit-engine": "^1.7.0",
         "flatbush": "^4.5.1",
         "graphics-debug": "^0.0.94",
-        "kicad-to-circuit-json": "^0.0.82",
+        "kicad-to-circuit-json": "^0.0.96",
         "kicadts": "^0.0.43",
         "minicssgrid": "^0.0.9",
         "playwright-core": "^1.60.0",
@@ -392,7 +392,7 @@
 
     "@tscircuit/alphabet": ["@tscircuit/alphabet@0.0.23", "", { "peerDependencies": { "typescript": "^5.0.0" } }, "sha512-7ue0Wp1/kptJ11mNRT/tttSeL6K3qFUVlIIu8SQaEVnf3mlnqZV83jBdteGHQNRwLLSjgG24sZEvCVhZBIrW1Q=="],
 
-    "@tscircuit/breakout-point-solver": ["@tscircuit/breakout-point-solver@github:tscircuit/breakout-point-solver#bac9629", { "peerDependencies": { "typescript": "^5" } }, "tscircuit-breakout-point-solver-bac9629"],
+    "@tscircuit/breakout-point-solver": ["@tscircuit/breakout-point-solver@github:tscircuit/breakout-point-solver#bac9629", { "peerDependencies": { "typescript": "^5" } }, "tscircuit-breakout-point-solver-bac9629", "sha512-bq0vUEW5wak84Jt3U1RbqwEmNBtlQXDuFcY1LdcGRti8OHk8PpT0pGT42Iwuj5n1V7FL/no5WgnvducBl5RUgg=="],
 
     "@tscircuit/capacity-autorouter": ["@tscircuit/capacity-autorouter@0.0.542", "", { "dependencies": { "@tscircuit/high-density-a01": "^0.0.37", "fast-json-stable-stringify": "^2.1.0", "object-hash": "^3.0.0" } }, "sha512-ydXiV5DnA5GHR+L/ERLbSEAB/EVIU39zzarBS15YtG1Yl2sQ4QybEBUrXggdcFlGahHX8GwI5XIkQ7ziAoLM0A=="],
 
@@ -420,7 +420,7 @@
 
     "@tscircuit/internal-dynamic-import": ["@tscircuit/internal-dynamic-import@0.0.2", "", {}, "sha512-cflWt1v+3O//e6jAQgHqmzPfgcu1QP0gDefhl1YxeTHWdginlecuvbGdFZ1V9ETxo4+xAwbHDfV+6fyXpvzK8A=="],
 
-    "@tscircuit/jlcpcb-manufacturing-specs": ["@tscircuit/jlcpcb-manufacturing-specs@github:tscircuit/jlcpcb-manufacturing-specs#e08af15", {}, "tscircuit-jlcpcb-manufacturing-specs-e08af15"],
+    "@tscircuit/jlcpcb-manufacturing-specs": ["@tscircuit/jlcpcb-manufacturing-specs@github:tscircuit/jlcpcb-manufacturing-specs#e08af15", {}, "tscircuit-jlcpcb-manufacturing-specs-e08af15", "sha512-DOwL8/vhvV4WDb76ANnjL9KiG/VqsZAsTjew6Ow3i9hnk/dD25Bg/4EBbtfn0ka7R46i6kbfsthCCU3d6gFoTA=="],
 
     "@tscircuit/krt-wasm": ["@tscircuit/krt-wasm@0.1.3", "", { "peerDependencies": { "tscircuit": ">=0.0.1686" } }, "sha512-d+U/eAVS5GjIjMsdAvx3DnBkx7NcuGQj8f3qUTx0S+TiiN5rK7xNflz1ATR9PxBQK0R7t6kyAit0WqHn5JooFQ=="],
 
@@ -932,7 +932,7 @@
 
     "kicad-component-converter": ["kicad-component-converter@0.1.40", "", { "bin": { "kicad-mod-converter": "dist/cli.js", "kicad-component-converter": "dist/cli.js" } }, "sha512-k0eJpjeRF5E55Izphx87NzL9iGd5kABovG+1TRCgWktfYGWk3YuUnEZPsBVB5PH01TKA7OE8Oj7CdJcGSxWISw=="],
 
-    "kicad-to-circuit-json": ["kicad-to-circuit-json@0.0.82", "", { "dependencies": { "schematic-symbols": "^0.0.202" }, "peerDependencies": { "typescript": "^5" } }, "sha512-DOAHwANqtNd73qODCczS7fqq8wDW6/IOqFr1C0yBv92tUBYi0HJeTOwFsVUlTKr5nfB4EoVajkCqBbdtexYB3w=="],
+    "kicad-to-circuit-json": ["kicad-to-circuit-json@0.0.96", "", { "dependencies": { "schematic-symbols": "^0.0.202" }, "peerDependencies": { "typescript": "^5" } }, "sha512-dYFjNvT5sdf8T4goODOZk6iPkNJaqEJUQP949Ow9FDhYooJaIWMIxg8dZFtVvi37xHCwGGbdxgqUnA40gjvTvw=="],
 
     "kicadts": ["kicadts@0.0.43", "", { "peerDependencies": { "typescript": "^5" } }, "sha512-vyoXXIV8bNMonOKy3+fZerUC4jCE91ZlZA3xrhGnyWfUODFc9PkxaRbI4yXn3Jre5MMLMzRD63pYr2tV9L/rCg=="],
 
