@@ -1,6 +1,6 @@
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { KicadToCircuitJsonConverter } from "kicad-to-circuit-json"
+import { KicadToCircuitJsonConverter } from "../vendor/kicad-to-circuit-json/dist/index.js"
 import { getSimpleRouteJsonFromCircuitJson } from "@tscircuit/core"
 
 const boards = [
@@ -133,6 +133,44 @@ const roundJson = (value) => {
   return value
 }
 
+const getCopperPourConnectedTo = (copperPour, sourceNetIdByName) =>
+  Array.from(new Set([
+    copperPour.source_net_id,
+    copperPour.net_name ? sourceNetIdByName.get(copperPour.net_name) : undefined,
+  ].filter(Boolean)))
+
+const getCopperPourObstaclesFromCircuitJson = (circuitJson) => {
+  const sourceNetIdByName = new Map(
+    circuitJson
+      .filter((element) => element.type === "source_net" && element.name && element.source_net_id)
+      .map((sourceNet) => [sourceNet.name, sourceNet.source_net_id]),
+  )
+
+  return circuitJson
+    .filter(
+      (element) =>
+        element.type === "pcb_copper_pour" &&
+        element.shape === "rect" &&
+        element.center &&
+        Number.isFinite(element.width) &&
+        Number.isFinite(element.height),
+    )
+    .map((copperPour) => {
+      const connectedTo = getCopperPourConnectedTo(copperPour, sourceNetIdByName)
+      return {
+        obstacleId: `${copperPour.pcb_copper_pour_id}_obstacle`,
+        type: "rect",
+        layers: [copperPour.layer],
+        center: copperPour.center,
+        width: copperPour.width,
+        height: copperPour.height,
+        connectedTo,
+        isCopperPour: true,
+        ...(connectedTo.length > 0 ? { netIsAssignable: true } : {}),
+      }
+    })
+}
+
 
 const fetchText = async (url) => {
   const response = await fetch(url, { headers: { "user-agent": "dataset-srj18-generator" } })
@@ -260,6 +298,7 @@ for (const [index, board] of boards.entries()) {
 
   const simpleRouteResult = getSimpleRouteJsonFromCircuitJson({ circuitJson })
   const simpleRouteJson = roundJson(simpleRouteResult.simpleRouteJson ?? simpleRouteResult)
+  simpleRouteJson.obstacles.push(...roundJson(getCopperPourObstaclesFromCircuitJson(circuitJson)))
   simpleRouteJson.id = sampleName
   simpleRouteJson.sourceCircuitJson = `circuit-json/${sampleName}-${board.id}.json`
   simpleRouteJson.sourceKicadPcb = `kicad_pcb/${pcbFileName}`
