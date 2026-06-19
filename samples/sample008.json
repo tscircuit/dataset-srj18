@@ -16623,11 +16623,137 @@
         "bottom"
       ],
       "center": {
+        "x": -19.1635,
+        "y": -7.007
+      },
+      "connectedTo": [
+        "pcb_via_0"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -9.6605,
+        "y": -6.457999
+      },
+      "connectedTo": [
+        "pcb_via_1"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -9.411,
+        "y": 4.302501
+      },
+      "connectedTo": [
+        "pcb_via_2"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.9865,
+        "y": 4.563
+      },
+      "connectedTo": [
+        "pcb_via_3"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -22.0455,
+        "y": 4.277001
+      },
+      "connectedTo": [
+        "pcb_via_4"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 5.315061,
+        "y": 8.534439
+      },
+      "connectedTo": [
+        "pcb_via_5"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -9.6635,
+        "y": -7.537
+      },
+      "connectedTo": [
+        "pcb_via_6"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
         "x": -16.8605,
         "y": 2.402001
       },
       "connectedTo": [
-        "pcb_via_0"
+        "pcb_via_7"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16645,7 +16771,25 @@
         "y": -4.367999
       },
       "connectedTo": [
-        "pcb_via_1"
+        "pcb_via_8"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -9.8635,
+        "y": -2.112
+      },
+      "connectedTo": [
+        "pcb_via_9"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16663,7 +16807,43 @@
         "y": 7.213
       },
       "connectedTo": [
-        "pcb_via_2"
+        "pcb_via_10"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -12.3605,
+        "y": 1.682001
+      },
+      "connectedTo": [
+        "pcb_via_11"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 5.3615,
+        "y": -4.287
+      },
+      "connectedTo": [
+        "pcb_via_12"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16681,7 +16861,7 @@
         "y": -7.107999
       },
       "connectedTo": [
-        "pcb_via_3"
+        "pcb_via_13"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16699,7 +16879,115 @@
         "y": 5.863
       },
       "connectedTo": [
-        "pcb_via_4"
+        "pcb_via_14"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.699753,
+        "y": 2.253113
+      },
+      "connectedTo": [
+        "pcb_via_15"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.9545,
+        "y": -1.772999
+      },
+      "connectedTo": [
+        "pcb_via_16"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.093397,
+        "y": -6.225488
+      },
+      "connectedTo": [
+        "pcb_via_17"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.4865,
+        "y": 2.813
+      },
+      "connectedTo": [
+        "pcb_via_18"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.1365,
+        "y": 4.663
+      },
+      "connectedTo": [
+        "pcb_via_19"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 15.951448,
+        "y": -7.003497
+      },
+      "connectedTo": [
+        "pcb_via_20"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16717,7 +17005,25 @@
         "y": 8.773
       },
       "connectedTo": [
-        "pcb_via_5"
+        "pcb_via_21"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -0.9135,
+        "y": -1.937
+      },
+      "connectedTo": [
+        "pcb_via_22"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16735,7 +17041,61 @@
         "y": 5.652001
       },
       "connectedTo": [
-        "pcb_via_6"
+        "pcb_via_23"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.3865,
+        "y": 1.213
+      },
+      "connectedTo": [
+        "pcb_via_24"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 5.5615,
+        "y": -1.862
+      },
+      "connectedTo": [
+        "pcb_via_25"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.3865,
+        "y": -0.237
+      },
+      "connectedTo": [
+        "pcb_via_26"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16753,7 +17113,7 @@
         "y": -2.112
       },
       "connectedTo": [
-        "pcb_via_7"
+        "pcb_via_27"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16771,7 +17131,43 @@
         "y": -6.697999
       },
       "connectedTo": [
-        "pcb_via_8"
+        "pcb_via_28"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -6.288512,
+        "y": -5.512001
+      },
+      "connectedTo": [
+        "pcb_via_29"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -18.3885,
+        "y": 2.913
+      },
+      "connectedTo": [
+        "pcb_via_30"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16789,7 +17185,7 @@
         "y": -2.487
       },
       "connectedTo": [
-        "pcb_via_9"
+        "pcb_via_31"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16807,7 +17203,43 @@
         "y": -1.687
       },
       "connectedTo": [
-        "pcb_via_10"
+        "pcb_via_32"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -15.4205,
+        "y": -0.187999
+      },
+      "connectedTo": [
+        "pcb_via_33"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -6.013501,
+        "y": -1.961981
+      },
+      "connectedTo": [
+        "pcb_via_34"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16825,7 +17257,25 @@
         "y": 5.147311
       },
       "connectedTo": [
-        "pcb_via_11"
+        "pcb_via_35"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.2865,
+        "y": 8.733
+      },
+      "connectedTo": [
+        "pcb_via_36"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16843,7 +17293,7 @@
         "y": -9.057
       },
       "connectedTo": [
-        "pcb_via_12"
+        "pcb_via_37"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16861,7 +17311,25 @@
         "y": 8.013
       },
       "connectedTo": [
-        "pcb_via_13"
+        "pcb_via_38"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 8.14439,
+        "y": 8.6574
+      },
+      "connectedTo": [
+        "pcb_via_39"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16879,7 +17347,7 @@
         "y": 1.313
       },
       "connectedTo": [
-        "pcb_via_14"
+        "pcb_via_40"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16897,7 +17365,25 @@
         "y": 8.527001
       },
       "connectedTo": [
-        "pcb_via_15"
+        "pcb_via_41"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -23.069999,
+        "y": 9.3115
+      },
+      "connectedTo": [
+        "pcb_via_42"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16915,7 +17401,43 @@
         "y": 1.213
       },
       "connectedTo": [
-        "pcb_via_16"
+        "pcb_via_43"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.2705,
+        "y": 3.752001
+      },
+      "connectedTo": [
+        "pcb_via_44"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -8.2135,
+        "y": 2.313
+      },
+      "connectedTo": [
+        "pcb_via_45"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16933,10 +17455,28 @@
         "y": 1.312001
       },
       "connectedTo": [
-        "pcb_via_17"
+        "pcb_via_46"
       ],
       "width": 0.5,
       "height": 0.5
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -10.884701,
+        "y": 0.7678
+      },
+      "connectedTo": [
+        "pcb_via_47"
+      ],
+      "width": 0.6,
+      "height": 0.6
     },
     {
       "type": "rect",
@@ -16951,7 +17491,277 @@
         "y": -8.197999
       },
       "connectedTo": [
-        "pcb_via_18"
+        "pcb_via_48"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 7.3395,
+        "y": -4.549092
+      },
+      "connectedTo": [
+        "pcb_via_49"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -17.4235,
+        "y": -2.687
+      },
+      "connectedTo": [
+        "pcb_via_50"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.7965,
+        "y": -0.367
+      },
+      "connectedTo": [
+        "pcb_via_51"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -18.183631,
+        "y": 0.264
+      },
+      "connectedTo": [
+        "pcb_via_52"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.561523,
+        "y": -0.112
+      },
+      "connectedTo": [
+        "pcb_via_53"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -18.183631,
+        "y": -0.488
+      },
+      "connectedTo": [
+        "pcb_via_54"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -12.340705,
+        "y": 2.512206
+      },
+      "connectedTo": [
+        "pcb_via_55"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -7.467356,
+        "y": 1.554501
+      },
+      "connectedTo": [
+        "pcb_via_56"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -12.442633,
+        "y": 6.716023
+      },
+      "connectedTo": [
+        "pcb_via_57"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -4.0235,
+        "y": 7.573
+      },
+      "connectedTo": [
+        "pcb_via_58"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 10.7995,
+        "y": 7.192001
+      },
+      "connectedTo": [
+        "pcb_via_59"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 4.0265,
+        "y": 8.743
+      },
+      "connectedTo": [
+        "pcb_via_60"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.1865,
+        "y": 8.313
+      },
+      "connectedTo": [
+        "pcb_via_61"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 6.7765,
+        "y": 8.823
+      },
+      "connectedTo": [
+        "pcb_via_62"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -3.2535,
+        "y": 7.563
+      },
+      "connectedTo": [
+        "pcb_via_63"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16969,7 +17779,7 @@
         "y": -3.687
       },
       "connectedTo": [
-        "pcb_via_19"
+        "pcb_via_64"
       ],
       "width": 0.6,
       "height": 0.6
@@ -16987,7 +17797,25 @@
         "y": -8.768401
       },
       "connectedTo": [
-        "pcb_via_20"
+        "pcb_via_65"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 6.0865,
+        "y": 8.563
+      },
+      "connectedTo": [
+        "pcb_via_66"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17005,7 +17833,61 @@
         "y": 8.862001
       },
       "connectedTo": [
-        "pcb_via_21"
+        "pcb_via_67"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 15.957032,
+        "y": -5.554156
+      },
+      "connectedTo": [
+        "pcb_via_68"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -5.785573,
+        "y": -0.501262
+      },
+      "connectedTo": [
+        "pcb_via_69"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.2365,
+        "y": 2.763
+      },
+      "connectedTo": [
+        "pcb_via_70"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17023,7 +17905,25 @@
         "y": 3.752001
       },
       "connectedTo": [
-        "pcb_via_22"
+        "pcb_via_71"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 7.175578,
+        "y": 4.298205
+      },
+      "connectedTo": [
+        "pcb_via_72"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17041,7 +17941,115 @@
         "y": -0.414366
       },
       "connectedTo": [
-        "pcb_via_23"
+        "pcb_via_73"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -5.858061,
+        "y": 8.378598
+      },
+      "connectedTo": [
+        "pcb_via_74"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.62131,
+        "y": -6.746395
+      },
+      "connectedTo": [
+        "pcb_via_75"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 9.2695,
+        "y": -6.177999
+      },
+      "connectedTo": [
+        "pcb_via_76"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 4.53851,
+        "y": 5.113
+      },
+      "connectedTo": [
+        "pcb_via_77"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -22.8135,
+        "y": 7.913
+      },
+      "connectedTo": [
+        "pcb_via_78"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.1365,
+        "y": 5.413
+      },
+      "connectedTo": [
+        "pcb_via_79"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17059,7 +18067,169 @@
         "y": -5.865262
       },
       "connectedTo": [
-        "pcb_via_24"
+        "pcb_via_80"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.4365,
+        "y": 0.213
+      },
+      "connectedTo": [
+        "pcb_via_81"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 11.669863,
+        "y": -6.5328
+      },
+      "connectedTo": [
+        "pcb_via_82"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.7865,
+        "y": -3.787
+      },
+      "connectedTo": [
+        "pcb_via_83"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.0865,
+        "y": 2.363
+      },
+      "connectedTo": [
+        "pcb_via_84"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.0865,
+        "y": 3.963
+      },
+      "connectedTo": [
+        "pcb_via_85"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.0365,
+        "y": -3.787
+      },
+      "connectedTo": [
+        "pcb_via_86"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.564148,
+        "y": -4.872199
+      },
+      "connectedTo": [
+        "pcb_via_87"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 24.0865,
+        "y": -2.037
+      },
+      "connectedTo": [
+        "pcb_via_88"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -7.4635,
+        "y": 2.313
+      },
+      "connectedTo": [
+        "pcb_via_89"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17077,7 +18247,43 @@
         "y": -6.568226
       },
       "connectedTo": [
-        "pcb_via_25"
+        "pcb_via_90"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -8.957614,
+        "y": -2.312301
+      },
+      "connectedTo": [
+        "pcb_via_91"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -7.2405,
+        "y": -3.157999
+      },
+      "connectedTo": [
+        "pcb_via_92"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17095,7 +18301,43 @@
         "y": -9.201619
       },
       "connectedTo": [
-        "pcb_via_26"
+        "pcb_via_93"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -6.051502,
+        "y": 5.332001
+      },
+      "connectedTo": [
+        "pcb_via_94"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -13.1705,
+        "y": -9.347999
+      },
+      "connectedTo": [
+        "pcb_via_95"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17113,7 +18355,79 @@
         "y": 7.013
       },
       "connectedTo": [
-        "pcb_via_27"
+        "pcb_via_96"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 17.6365,
+        "y": 5.113
+      },
+      "connectedTo": [
+        "pcb_via_97"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.0365,
+        "y": 7.013
+      },
+      "connectedTo": [
+        "pcb_via_98"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.2765,
+        "y": 7.963
+      },
+      "connectedTo": [
+        "pcb_via_99"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 3.28449,
+        "y": 6.763
+      },
+      "connectedTo": [
+        "pcb_via_100"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17131,7 +18445,457 @@
         "y": 6.692001
       },
       "connectedTo": [
-        "pcb_via_28"
+        "pcb_via_101"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.788477,
+        "y": 6.964977
+      },
+      "connectedTo": [
+        "pcb_via_102"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.561492,
+        "y": 4.510747
+      },
+      "connectedTo": [
+        "pcb_via_103"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.1595,
+        "y": 6.872331
+      },
+      "connectedTo": [
+        "pcb_via_104"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 9.772671,
+        "y": 6.546726
+      },
+      "connectedTo": [
+        "pcb_via_105"
+      ],
+      "width": 0.5,
+      "height": 0.5
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 15.925249,
+        "y": -4.829851
+      },
+      "connectedTo": [
+        "pcb_via_106"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 17.629,
+        "y": 1.62168
+      },
+      "connectedTo": [
+        "pcb_via_107"
+      ],
+      "width": 0.5,
+      "height": 0.5
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 15.932469,
+        "y": -6.278743
+      },
+      "connectedTo": [
+        "pcb_via_108"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.4365,
+        "y": -3.737
+      },
+      "connectedTo": [
+        "pcb_via_109"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.095348,
+        "y": -1.34191
+      },
+      "connectedTo": [
+        "pcb_via_110"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.4365,
+        "y": 0.389001
+      },
+      "connectedTo": [
+        "pcb_via_111"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -9.1455,
+        "y": -4.247999
+      },
+      "connectedTo": [
+        "pcb_via_112"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 12.3995,
+        "y": -6.637999
+      },
+      "connectedTo": [
+        "pcb_via_113"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.2865,
+        "y": -3.787
+      },
+      "connectedTo": [
+        "pcb_via_114"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.1365,
+        "y": -6.237
+      },
+      "connectedTo": [
+        "pcb_via_115"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.731651,
+        "y": 7.753383
+      },
+      "connectedTo": [
+        "pcb_via_116"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.263504,
+        "y": 4.513
+      },
+      "connectedTo": [
+        "pcb_via_117"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 5.936496,
+        "y": 4.313
+      },
+      "connectedTo": [
+        "pcb_via_118"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.351033,
+        "y": 2.963654
+      },
+      "connectedTo": [
+        "pcb_via_119"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 17.9365,
+        "y": 7.012989
+      },
+      "connectedTo": [
+        "pcb_via_120"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 6.5365,
+        "y": 3.713
+      },
+      "connectedTo": [
+        "pcb_via_121"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.243002,
+        "y": 1.863432
+      },
+      "connectedTo": [
+        "pcb_via_122"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 11.2595,
+        "y": 8.312001
+      },
+      "connectedTo": [
+        "pcb_via_123"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 5.9895,
+        "y": 2.812001
+      },
+      "connectedTo": [
+        "pcb_via_124"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.04408,
+        "y": 8.407324
+      },
+      "connectedTo": [
+        "pcb_via_125"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 8.146957,
+        "y": 4.67055
+      },
+      "connectedTo": [
+        "pcb_via_126"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17149,7 +18913,187 @@
         "y": 0.213
       },
       "connectedTo": [
-        "pcb_via_29"
+        "pcb_via_127"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 12.252,
+        "y": 4.754001
+      },
+      "connectedTo": [
+        "pcb_via_128"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.529354,
+        "y": 1.036987
+      },
+      "connectedTo": [
+        "pcb_via_129"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.355112,
+        "y": -8.842387
+      },
+      "connectedTo": [
+        "pcb_via_130"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.545805,
+        "y": 0.312172
+      },
+      "connectedTo": [
+        "pcb_via_131"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.5295,
+        "y": 4.752001
+      },
+      "connectedTo": [
+        "pcb_via_132"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.23676,
+        "y": 3.591132
+      },
+      "connectedTo": [
+        "pcb_via_133"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 11.80262,
+        "y": 5.534862
+      },
+      "connectedTo": [
+        "pcb_via_134"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.874157,
+        "y": -8.071535
+      },
+      "connectedTo": [
+        "pcb_via_135"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.013939,
+        "y": -7.355284
+      },
+      "connectedTo": [
+        "pcb_via_136"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 17.4295,
+        "y": -1.747999
+      },
+      "connectedTo": [
+        "pcb_via_137"
       ],
       "width": 0.6,
       "height": 0.6
@@ -17167,7 +19111,619 @@
         "y": 5.172001
       },
       "connectedTo": [
-        "pcb_via_30"
+        "pcb_via_138"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 7.3365,
+        "y": 6.663
+      },
+      "connectedTo": [
+        "pcb_via_139"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.5205,
+        "y": 5.302001
+      },
+      "connectedTo": [
+        "pcb_via_140"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -4.2955,
+        "y": 6.2625
+      },
+      "connectedTo": [
+        "pcb_via_141"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -2.263494,
+        "y": 1.063
+      },
+      "connectedTo": [
+        "pcb_via_142"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 14.17045,
+        "y": -8.388449
+      },
+      "connectedTo": [
+        "pcb_via_143"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.1095,
+        "y": -7.4385
+      },
+      "connectedTo": [
+        "pcb_via_144"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 15.358839,
+        "y": 4.432001
+      },
+      "connectedTo": [
+        "pcb_via_145"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.3365,
+        "y": -8.737
+      },
+      "connectedTo": [
+        "pcb_via_146"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 0.9865,
+        "y": -4.537
+      },
+      "connectedTo": [
+        "pcb_via_147"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.3365,
+        "y": -7.137
+      },
+      "connectedTo": [
+        "pcb_via_148"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 2.8365,
+        "y": -6.587
+      },
+      "connectedTo": [
+        "pcb_via_149"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 0.7365,
+        "y": -3.837
+      },
+      "connectedTo": [
+        "pcb_via_150"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.0865,
+        "y": 3.913
+      },
+      "connectedTo": [
+        "pcb_via_151"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 8.889006,
+        "y": 8.652511
+      },
+      "connectedTo": [
+        "pcb_via_152"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 21.1865,
+        "y": 9.113
+      },
+      "connectedTo": [
+        "pcb_via_153"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 1.1965,
+        "y": 8.933
+      },
+      "connectedTo": [
+        "pcb_via_154"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -1.6135,
+        "y": 7.1625
+      },
+      "connectedTo": [
+        "pcb_via_155"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 12.5265,
+        "y": -5.878522
+      },
+      "connectedTo": [
+        "pcb_via_156"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.2045,
+        "y": -8.397999
+      },
+      "connectedTo": [
+        "pcb_via_157"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 20.9795,
+        "y": -2.777499
+      },
+      "connectedTo": [
+        "pcb_via_158"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.392352,
+        "y": 0.318
+      },
+      "connectedTo": [
+        "pcb_via_159"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 12.503328,
+        "y": -7.355021
+      },
+      "connectedTo": [
+        "pcb_via_160"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 18.982003,
+        "y": -8.843402
+      },
+      "connectedTo": [
+        "pcb_via_161"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 13.1995,
+        "y": 8.0135
+      },
+      "connectedTo": [
+        "pcb_via_162"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 10.9995,
+        "y": -6.257999
+      },
+      "connectedTo": [
+        "pcb_via_163"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -3.193946,
+        "y": -2.824554
+      },
+      "connectedTo": [
+        "pcb_via_164"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -6.013491,
+        "y": -2.686983
+      },
+      "connectedTo": [
+        "pcb_via_165"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 16.2995,
+        "y": -8.117999
+      },
+      "connectedTo": [
+        "pcb_via_166"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 19.058967,
+        "y": -8.122999
+      },
+      "connectedTo": [
+        "pcb_via_167"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -18.1835,
+        "y": -1.504499
+      },
+      "connectedTo": [
+        "pcb_via_168"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -17.518499,
+        "y": 1.483
+      },
+      "connectedTo": [
+        "pcb_via_169"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": -21.0535,
+        "y": -9.317
+      },
+      "connectedTo": [
+        "pcb_via_170"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 6.2818,
+        "y": -2.6573
+      },
+      "connectedTo": [
+        "pcb_via_171"
+      ],
+      "width": 0.6,
+      "height": 0.6
+    },
+    {
+      "type": "rect",
+      "layers": [
+        "top",
+        "inner1",
+        "inner2",
+        "bottom"
+      ],
+      "center": {
+        "x": 6.2945,
+        "y": -1.612
+      },
+      "connectedTo": [
+        "pcb_via_172"
       ],
       "width": 0.6,
       "height": 0.6
