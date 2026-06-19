@@ -1,4 +1,6 @@
 node_modules
 dist
+!vendor/kicad-to-circuit-json/dist
+!vendor/kicad-to-circuit-json/dist/**
 .DS_Store
 .vercel

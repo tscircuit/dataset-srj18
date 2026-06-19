@@ -13,7 +13,7 @@
       "components": 57,
       "traces": 251,
       "vias": 95,
-      "copper_pours": 17
+      "copper_pours": 4
     }
   },
   {
@@ -30,7 +30,7 @@
       "components": 66,
       "traces": 386,
       "vias": 154,
-      "copper_pours": 25
+      "copper_pours": 5
     }
   },
   {
@@ -47,7 +47,7 @@
       "components": 48,
       "traces": 160,
       "vias": 44,
-      "copper_pours": 21
+      "copper_pours": 4
     }
   },
   {
@@ -64,7 +64,7 @@
       "components": 34,
       "traces": 162,
       "vias": 44,
-      "copper_pours": 18
+      "copper_pours": 2
     }
   },
   {
@@ -81,7 +81,7 @@
       "components": 56,
       "traces": 268,
       "vias": 75,
-      "copper_pours": 23
+      "copper_pours": 5
     }
   },
   {
@@ -98,7 +98,7 @@
       "pads": 473,
       "traces": 468,
       "vias": 180,
-      "copper_pours": 14
+      "copper_pours": 12
     }
   },
   {
@@ -115,7 +115,7 @@
       "pads": 390,
       "traces": 397,
       "vias": 289,
-      "copper_pours": 69
+      "copper_pours": 23
     }
   },
   {
@@ -132,7 +132,7 @@
       "components": 130,
       "traces": 511,
       "vias": 173,
-      "copper_pours": 13
+      "copper_pours": 8
     }
   },
   {
@@ -149,7 +149,7 @@
       "components": 118,
       "traces": 335,
       "vias": 206,
-      "copper_pours": 33
+      "copper_pours": 20
     }
   },
   {
@@ -166,7 +166,7 @@
       "components": 110,
       "traces": 460,
       "vias": 175,
-      "copper_pours": 10
+      "copper_pours": 4
     }
   },
   {
@@ -183,7 +183,7 @@
       "components": 119,
       "traces": 401,
       "vias": 219,
-      "copper_pours": 65
+      "copper_pours": 12
     }
   },
   {
@@ -217,7 +217,7 @@
       "components": 92,
       "traces": 396,
       "vias": 234,
-      "copper_pours": 44
+      "copper_pours": 25
     }
   },
   {
@@ -251,7 +251,7 @@
       "components": 212,
       "traces": 602,
       "vias": 268,
-      "copper_pours": 53
+      "copper_pours": 49
     }
   },
   {
@@ -268,7 +268,7 @@
       "components": 124,
       "traces": 317,
       "vias": 229,
-      "copper_pours": 42
+      "copper_pours": 36
     }
   }
 ]
