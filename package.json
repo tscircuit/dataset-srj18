@@ -25,7 +25,7 @@
     "@tscircuit/circuit-json-util": "^0.0.94",
     "@tscircuit/common": "^0.0.42",
     "@tscircuit/copper-pour-solver": "^0.0.30",
-    "@tscircuit/core": "^0.0.1414",
+    "@tscircuit/core": "^0.0.1431",
     "@tscircuit/footprinter": "^0.0.357",
     "@tscircuit/infer-cable-insertion-point": "^0.0.2",
     "@tscircuit/infgrid-ijump-astar": "^0.0.35",
@@ -55,7 +55,7 @@
     "eecircuit-engine": "^1.7.0",
     "flatbush": "^4.5.1",
     "graphics-debug": "^0.0.94",
-    "kicad-to-circuit-json": "^0.0.111",
+    "kicad-to-circuit-json": "^0.0.113",
     "kicadts": "^0.0.50",
     "minicssgrid": "^0.0.9",
     "playwright-core": "^1.60.0",
@@ -67,6 +67,7 @@
     "stack-svgs": "^0.0.1",
     "transformation-matrix": "^3.1.0",
     "vite": "5.4.21",
-     "@tscircuit/image-utils": "^0.0.8"
+    "@tscircuit/image-utils": "^0.0.8",
+    "tscircuit": "^0.0.2060"
   }
 }
