@@ -1,10 +1,11 @@
 {
   "lockfileVersion": 1,
+  "configVersion": 0,
   "workspaces": {
     "": {
       "name": "dataset-srj18",
       "devDependencies": {
-        "@tscircuit/capacity-autorouter": "^0.0.542",
+        "@tscircuit/capacity-autorouter": "^0.0.557",
         "@tscircuit/checks": "^0.0.132",
         "@tscircuit/circuit-json-util": "^0.0.94",
         "@tscircuit/common": "^0.0.42",
@@ -361,7 +362,7 @@
 
     "@tscircuit/alphabet": ["@tscircuit/alphabet@0.0.23", "", { "peerDependencies": { "typescript": "^5.0.0" } }, "sha512-7ue0Wp1/kptJ11mNRT/tttSeL6K3qFUVlIIu8SQaEVnf3mlnqZV83jBdteGHQNRwLLSjgG24sZEvCVhZBIrW1Q=="],
 
-    "@tscircuit/capacity-autorouter": ["@tscircuit/capacity-autorouter@0.0.542", "", { "dependencies": { "@tscircuit/high-density-a01": "^0.0.37", "fast-json-stable-stringify": "^2.1.0", "object-hash": "^3.0.0" } }, "sha512-ydXiV5DnA5GHR+L/ERLbSEAB/EVIU39zzarBS15YtG1Yl2sQ4QybEBUrXggdcFlGahHX8GwI5XIkQ7ziAoLM0A=="],
+    "@tscircuit/capacity-autorouter": ["@tscircuit/capacity-autorouter@0.0.557", "", { "dependencies": { "@tscircuit/high-density-a01": "^0.0.37", "fast-json-stable-stringify": "^2.1.0", "object-hash": "^3.0.0" } }, "sha512-v/QgBgOwHxgHlVTlT8NXhTj8nWhIg/FlsMDfmtAKV07rsq0wIufli1JeETx0YaY4N/1r1vcv3o94LOzfM8+GRw=="],
 
     "@tscircuit/checks": ["@tscircuit/checks@0.0.132", "", { "peerDependencies": { "@flatten-js/core": "*", "@tscircuit/math-utils": "*", "circuit-json": "*", "circuit-json-to-connectivity-map": "*", "typescript": "^5.5.3" } }, "sha512-sqwrEZ3jwqNoT0KAwR59IWiBO/z72IZCglrMTruKAOfnPyx/8KUCwEBvWLJg1swcF7zT3LUJrh8qE1G4HPodTg=="],
 

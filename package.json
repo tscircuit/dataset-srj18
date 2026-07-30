@@ -11,16 +11,18 @@
     "samples",
     "kicad_pcb",
     "circuit-json",
+    "generated-datasets",
     "source-files.json"
   ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "generate": "bun scripts/download-and-generate.mjs",
+    "generate:hypergraphs": "bun scripts/generate-hypergraphs.mjs",
     "test": "bun scripts/validate.mjs"
   },
   "devDependencies": {
-    "@tscircuit/capacity-autorouter": "^0.0.542",
+    "@tscircuit/capacity-autorouter": "^0.0.557",
     "@tscircuit/checks": "^0.0.132",
     "@tscircuit/circuit-json-util": "^0.0.94",
     "@tscircuit/common": "^0.0.42",
