@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "name": "dataset-srj18-pipeline7-completed-tiny-hypergraph-inputs",
+  "sampleCount": 8,
+  "source": {
+    "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+    "autorouterRepo": "tscircuit/tscircuit-autorouter",
+    "autorouterVersion": "0.0.782",
+    "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+    "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+    "benchmarkRunId": "31336663867",
+    "benchmarkEffort": 1
+  },
+  "cases": [
+    {
+      "sampleName": "sample001",
+      "fileName": "sample001.tiny-hypergraph.json",
+      "sha256": "5b9cb8e29f21ca23d10a59ca41999ad190091bbd6463a923e720596751951065",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 81747.467354,
+        "viaCount": 195,
+        "relaxedDrcPassed": true
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 10572
+      },
+      "summary": {
+        "regionCount": 1711,
+        "portCount": 13127,
+        "connectionCount": 205,
+        "solvedRouteCount": 205,
+        "effectiveRegionNetCount": 668,
+        "effectivePortPenaltyCount": 579,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 205 connections"
+      }
+    },
+    {
+      "sampleName": "sample003",
+      "fileName": "sample003.tiny-hypergraph.json",
+      "sha256": "1d703427f18ff278e7f986804056752f53d0180f5f7cc5ec3ccb2ac378d49263",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 62986.181966000004,
+        "viaCount": 88,
+        "relaxedDrcPassed": false
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 17176
+      },
+      "summary": {
+        "regionCount": 2336,
+        "portCount": 15395,
+        "connectionCount": 145,
+        "solvedRouteCount": 145,
+        "effectiveRegionNetCount": 610,
+        "effectivePortPenaltyCount": 1329,
+        "duplicatedPortCount": 138,
+        "duplicateCongestedPortError": null
+      }
+    },
+    {
+      "sampleName": "sample005",
+      "fileName": "sample005.tiny-hypergraph.json",
+      "sha256": "9f5558d8b91f6f9b7b12e58d3a02ed753c68b296218560d17b0e24db21439690",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 57686.020724,
+        "viaCount": 150,
+        "relaxedDrcPassed": true
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 9255
+      },
+      "summary": {
+        "regionCount": 1834,
+        "portCount": 14391,
+        "connectionCount": 172,
+        "solvedRouteCount": 172,
+        "effectiveRegionNetCount": 578,
+        "effectivePortPenaltyCount": 1565,
+        "duplicatedPortCount": 98,
+        "duplicateCongestedPortError": null
+      }
+    },
+    {
+      "sampleName": "sample007",
+      "fileName": "sample007.tiny-hypergraph.json",
+      "sha256": "518a3e6e729beacdebc2355eb7a7e65060a9885113a253ef25af814050e83a43",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 138557.075597,
+        "viaCount": 225,
+        "relaxedDrcPassed": false
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 17150
+      },
+      "summary": {
+        "regionCount": 3276,
+        "portCount": 22385,
+        "connectionCount": 263,
+        "solvedRouteCount": 263,
+        "effectiveRegionNetCount": 850,
+        "effectivePortPenaltyCount": 1546,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 263 connections"
+      }
+    },
+    {
+      "sampleName": "sample008",
+      "fileName": "sample008.tiny-hypergraph.json",
+      "sha256": "56430d7e8d8daa516af07da664b65d1e1891df63e1402378b7dc8252e920f26e",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 275481.654977,
+        "viaCount": 299,
+        "relaxedDrcPassed": false
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 26337
+      },
+      "summary": {
+        "regionCount": 4898,
+        "portCount": 22220,
+        "connectionCount": 361,
+        "solvedRouteCount": 361,
+        "effectiveRegionNetCount": 1160,
+        "effectivePortPenaltyCount": 3787,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 361 connections"
+      }
+    },
+    {
+      "sampleName": "sample009",
+      "fileName": "sample009.tiny-hypergraph.json",
+      "sha256": "314bf2d55f12df8ca98160f95a91bafea9d6dfc2904d99af697b44509e3dd3eb",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 144147.63353,
+        "viaCount": 116,
+        "relaxedDrcPassed": false
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 25817
+      },
+      "summary": {
+        "regionCount": 4658,
+        "portCount": 23089,
+        "connectionCount": 256,
+        "solvedRouteCount": 256,
+        "effectiveRegionNetCount": 1176,
+        "effectivePortPenaltyCount": 3733,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 256 connections"
+      }
+    },
+    {
+      "sampleName": "sample010",
+      "fileName": "sample010.tiny-hypergraph.json",
+      "sha256": "5843357374b23e137494cbc0a9dc65b6128985c12eba71b188d3c9757418ca01",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 138750.275321,
+        "viaCount": 170,
+        "relaxedDrcPassed": true
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 20928
+      },
+      "summary": {
+        "regionCount": 3058,
+        "portCount": 23660,
+        "connectionCount": 310,
+        "solvedRouteCount": 310,
+        "effectiveRegionNetCount": 1027,
+        "effectivePortPenaltyCount": 2163,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 310 connections"
+      }
+    },
+    {
+      "sampleName": "sample011",
+      "fileName": "sample011.tiny-hypergraph.json",
+      "sha256": "1ad67f4f60f6b80222580bfab71cfe05780a57a14669551659cbdbf7cc03b945",
+      "source": {
+        "dataset": "srj18",
+        "datasetCommit": "c0aad90256a95256fcac814f9f7da81a82a2fdea",
+        "autorouterRepo": "tscircuit/tscircuit-autorouter",
+        "autorouterVersion": "0.0.782",
+        "autorouterCommit": "ac87ba2740c450c226ef84a5bbcef7fb31369297",
+        "autorouterTree": "41524cd3f596ff422875df54b833d014a22ad353",
+        "benchmarkRunId": "31336663867",
+        "benchmarkEffort": 1,
+        "completionTimeMs": 135167.27056200002,
+        "viaCount": 176,
+        "relaxedDrcPassed": true
+      },
+      "extraction": {
+        "pipeline": "AutoroutingPipelineSolver7_MultiGraph",
+        "phase": "portPointPathingSolver",
+        "pipelineSteps": 17886
+      },
+      "summary": {
+        "regionCount": 3009,
+        "portCount": 18170,
+        "connectionCount": 289,
+        "solvedRouteCount": 289,
+        "effectiveRegionNetCount": 943,
+        "effectivePortPenaltyCount": 1424,
+        "duplicatedPortCount": 0,
+        "duplicateCongestedPortError": "Skipped for 289 connections"
+      }
+    }
+  ]
+}
