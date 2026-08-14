@@ -33,7 +33,7 @@ Antmicro source repositories are listed in `source-files.json`.
 ## Usage
 
 ```js
-const { sample001, dataset } = require("dataset-srj18")
+import { sample001, dataset } from "dataset-srj18"
 ```
 
 ## Regenerate
