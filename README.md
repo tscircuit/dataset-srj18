@@ -47,3 +47,12 @@ bun run test
 The generator downloads `.kicad_pcb` files into `kicad_pcb/`, converts them to
 Circuit JSON with `kicad-to-circuit-json`, and converts that output to Simple
 Route JSON with `getSimpleRouteJsonFromCircuitJson` from `@tscircuit/core`.
+
+To regenerate from the checked-in KiCad files after updating the converter,
+without downloading newer source boards:
+
+```sh
+bun install --frozen-lockfile
+bun run generate --local
+bun run test
+```

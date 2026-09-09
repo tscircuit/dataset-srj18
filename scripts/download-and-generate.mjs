@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { KicadToCircuitJsonConverter } from "kicad-to-circuit-json"
 import { getSimpleRouteJsonFromCircuitJson } from "@tscircuit/core"
@@ -109,6 +109,10 @@ const boards = [
 const samplesDir = "samples"
 const pcbDir = "kicad_pcb"
 const circuitJsonDir = "circuit-json"
+const useLocalSources = process.argv.includes("--local")
+for (const argument of process.argv.slice(2)) {
+  if (argument !== "--local") throw new Error(`Unknown argument: ${argument}`)
+}
 
 const rawGithubUrl = ({ owner, repo, ref, path }) =>
   `https://raw.githubusercontent.com/${owner}/${repo}/${encodeURIComponent(ref)}/${path
@@ -232,7 +236,7 @@ const writeIndexFiles = () => {
 }
 
 rmSync(samplesDir, { recursive: true, force: true })
-rmSync(pcbDir, { recursive: true, force: true })
+if (!useLocalSources) rmSync(pcbDir, { recursive: true, force: true })
 rmSync(circuitJsonDir, { recursive: true, force: true })
 mkdirSync(samplesDir, { recursive: true })
 mkdirSync(pcbDir, { recursive: true })
@@ -246,9 +250,11 @@ for (const [index, board] of boards.entries()) {
   const sourceUrl = githubBlobUrl(board)
   const fileName = board.path.split("/").at(-1)
 
-  const pcbText = await fetchText(rawUrl)
   const pcbFileName = `${sampleName}-${board.id}.kicad_pcb`
-  writeFileSync(join(pcbDir, pcbFileName), pcbText)
+  const pcbText = useLocalSources
+    ? readFileSync(join(pcbDir, pcbFileName), "utf8")
+    : await fetchText(rawUrl)
+  if (!useLocalSources) writeFileSync(join(pcbDir, pcbFileName), pcbText)
 
   const converter = new KicadToCircuitJsonConverter()
   converter.addFile(fileName, pcbText)

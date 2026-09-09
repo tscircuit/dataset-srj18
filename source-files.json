@@ -43,7 +43,7 @@
     "rawUrl": "https://raw.githubusercontent.com/sabogalc/KiCad-Arduino-Boards/main/KiCad%20Projects/Arduino%20Micro/Arduino%20Micro.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 158,
+      "pads": 205,
       "components": 48,
       "traces": 160,
       "vias": 44,
@@ -60,7 +60,7 @@
     "rawUrl": "https://raw.githubusercontent.com/sabogalc/KiCad-Arduino-Boards/main/KiCad%20Projects/Arduino%20Nano/Arduino%20Nano.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 146,
+      "pads": 182,
       "components": 34,
       "traces": 162,
       "vias": 44,
@@ -95,7 +95,7 @@
     "warnings": [],
     "stats": {
       "components": 65,
-      "pads": 473,
+      "pads": 479,
       "traces": 468,
       "vias": 180,
       "copper_pours": 14
@@ -145,7 +145,7 @@
     "rawUrl": "https://raw.githubusercontent.com/antmicro/gmsl-serializer/main/gmsl-serializer.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 280,
+      "pads": 357,
       "components": 118,
       "traces": 335,
       "vias": 206,
