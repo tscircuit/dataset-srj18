@@ -38040,7 +38040,7 @@
         "route_type": "wire",
         "x": -7.086399999999998,
         "y": -6.972200000000001,
-        "width": 0.3,
+        "width": 0.254,
         "layer": "top"
       },
       {
@@ -39560,7 +39560,7 @@
         "route_type": "wire",
         "x": -3.474400000000003,
         "y": -4.805899999999994,
-        "width": 0.2,
+        "width": 0.5,
         "layer": "top"
       },
       {
@@ -40056,7 +40056,7 @@
         "route_type": "wire",
         "x": 10.693600000000004,
         "y": 3.4418000000000006,
-        "width": 0.4,
+        "width": 0.8,
         "layer": "bottom"
       },
       {
@@ -50212,7 +50212,7 @@
         "route_type": "wire",
         "x": 14.253308000000004,
         "y": -7.919591999999994,
-        "width": 0.254,
+        "width": 0.15,
         "layer": "bottom"
       },
       {
@@ -50544,7 +50544,7 @@
         "route_type": "wire",
         "x": 13.979548999999992,
         "y": -8.400213999999991,
-        "width": 0.254,
+        "width": 0.15,
         "layer": "bottom"
       },
       {
@@ -151231,7 +151231,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 270
   },
@@ -151246,7 +151246,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024"
   },
   {
@@ -151260,7 +151260,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151274,7 +151274,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151288,7 +151288,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 4.5,
+    "font_size": 3,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -151303,7 +151303,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "bottom",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024"
   },
   {
@@ -151317,7 +151317,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 3.1500000000000004,
+    "font_size": 2.1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -151332,7 +151332,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151346,7 +151346,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151361,7 +151361,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151375,7 +151375,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151389,7 +151389,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90,
     "is_knockout": true
@@ -151405,7 +151405,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151420,7 +151420,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151435,7 +151435,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151450,7 +151450,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151464,7 +151464,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -151479,7 +151479,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151494,7 +151494,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151509,7 +151509,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151524,7 +151524,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151538,7 +151538,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151552,7 +151552,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024"
   },
   {
@@ -151566,7 +151566,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151581,7 +151581,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151596,7 +151596,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151611,7 +151611,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151626,7 +151626,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -151641,7 +151641,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151655,7 +151655,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151670,7 +151670,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151685,7 +151685,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151699,7 +151699,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151714,7 +151714,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151728,7 +151728,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151743,7 +151743,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024"
   },
   {
@@ -151757,7 +151757,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151772,7 +151772,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151787,7 +151787,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151802,7 +151802,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151817,7 +151817,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -151832,7 +151832,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151847,7 +151847,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -151861,7 +151861,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151876,7 +151876,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151891,7 +151891,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151906,7 +151906,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151921,7 +151921,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024"
   },
   {
@@ -151935,7 +151935,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151950,7 +151950,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151965,7 +151965,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024"
   },
   {
@@ -151979,7 +151979,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -151994,7 +151994,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152008,7 +152008,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152023,7 +152023,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152037,7 +152037,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152052,7 +152052,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152066,7 +152066,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152080,7 +152080,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152095,7 +152095,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152109,7 +152109,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152124,7 +152124,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152139,7 +152139,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152153,7 +152153,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152168,7 +152168,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152183,7 +152183,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -152198,7 +152198,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152213,7 +152213,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152227,7 +152227,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152241,7 +152241,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152256,7 +152256,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152271,7 +152271,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152286,7 +152286,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152301,7 +152301,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152316,7 +152316,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152331,7 +152331,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152346,7 +152346,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152360,7 +152360,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024"
   },
   {
@@ -152374,7 +152374,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152389,7 +152389,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152404,7 +152404,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -152419,7 +152419,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152434,7 +152434,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024"
   },
   {
@@ -152448,7 +152448,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152463,7 +152463,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152478,7 +152478,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024"
   },
   {
@@ -152492,7 +152492,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152507,7 +152507,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152521,7 +152521,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024"
   },
   {
@@ -152535,7 +152535,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152549,7 +152549,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024"
   },
   {
@@ -152563,7 +152563,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152578,7 +152578,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152593,7 +152593,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152607,7 +152607,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152621,7 +152621,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152635,7 +152635,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152650,7 +152650,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.2000000000000002,
+    "font_size": 0.8,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152665,7 +152665,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.5,
+    "font_size": 1,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152680,7 +152680,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152694,7 +152694,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   },
@@ -152709,7 +152709,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152723,7 +152723,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024",
     "ccw_rotation": 90,
     "is_knockout": true
@@ -152739,7 +152739,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152753,7 +152753,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.875,
+    "font_size": 1.25,
     "font": "tscircuit2024"
   },
   {
@@ -152767,7 +152767,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 1.6500000000000001,
+    "font_size": 1.1,
     "font": "tscircuit2024",
     "is_knockout": true
   },
@@ -152782,7 +152782,7 @@
     },
     "anchor_alignment": "bottom_left",
     "layer": "top",
-    "font_size": 2.0999999999999996,
+    "font_size": 1.4,
     "font": "tscircuit2024",
     "ccw_rotation": 90
   }
