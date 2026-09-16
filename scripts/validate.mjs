@@ -22,6 +22,17 @@ for (const [index, sampleFile] of samples.entries()) {
 
 if (!existsSync("index.d.ts")) throw new Error("Missing index.d.ts")
 
+// Sample002's J4 pin 1 is a plated slot with a rectangular copper pad. Older
+// core conversion omitted the obstacle while retaining the routing endpoint.
+const j4Pin1Obstacle = dataset.sample002.obstacles.find(
+  (item) => item.connectedTo[0] === "pcb_plated_hole_58",
+)
+assert(j4Pin1Obstacle, "Missing J4 pin 1 plated-slot obstacle in sample002")
+assert.deepEqual(j4Pin1Obstacle.layers, ["top", "bottom"])
+assert.deepEqual(j4Pin1Obstacle.center, { x: -39.2404, y: -18.2722 })
+assert.equal(j4Pin1Obstacle.width, 2)
+assert.equal(j4Pin1Obstacle.height, 4.5)
+
 // Sample016's zero-taper trapezoid used to lose its 270-degree pad rotation,
 // placing TP5 inside C43 before routing. Check both stored representations.
 const circuitJson = JSON.parse(readFileSync(dataset.sample016.sourceCircuitJson, "utf8"))
